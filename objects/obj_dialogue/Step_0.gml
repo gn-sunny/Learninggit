@@ -1,3 +1,4 @@
-draw_text("I AM LEARNING GITTTT!!!!!!");
 
-//or am i?
+copyccopy = string_copy(copy, first_num, last_num);
+
+last_num += 0.5;
