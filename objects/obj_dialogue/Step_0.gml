@@ -1,0 +1,1 @@
+draw_text("I AM LEARNING GITTTT!!!!!!")
